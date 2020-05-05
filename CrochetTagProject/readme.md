@@ -1,7 +1,7 @@
 ## Let me cut to the chase
 This was made with a series of single crochet stictches in colors that contrast with eachother.
 in the topmost row, I decided to experiment by combining the two accent colors together in one row, alternating the color every stich
-![image1](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164718.jpg | width=250)
+<img style="width:250px; height:250px;" src="https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164718.jpg"/>
 ![image2](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164721.jpg)
 ![image3](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164729.jpg)
 ![image4](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164741.jpg)
