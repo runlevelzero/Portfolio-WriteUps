@@ -4,11 +4,8 @@ For this project, I initially wanted to make a geometric pattern similar to what
 <<<<<<< HEAD
 <<<<<<< HEAD
 
-| ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/1.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/2.jpg) |
+| ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/1.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/2.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/3.jpg) |
 |---|---|
-| ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/4.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/5.jpg) |
-| ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/7.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/8.jpg) |
-=======
->>>>>>> parent of a4d3230... Update readme.md
-=======
->>>>>>> parent of a4d3230... Update readme.md
+| ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/4.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/5.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/6.jpg) |
+| ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/7.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/8.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/embroideryProject/9.jpg) |
+
