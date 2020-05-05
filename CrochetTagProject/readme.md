@@ -7,5 +7,5 @@ in the topmost row, I decided to experiment by combining the two accent colors t
 <img style="width:250px; height:250px;" src="https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164741.jpg"/>
 <img style="width:250px; height:250px;" src="https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164746.jpg"/>
 
-
+![](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164721.jpg =250x250)
 
