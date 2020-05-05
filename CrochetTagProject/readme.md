@@ -4,5 +4,5 @@ in the topmost row, I decided to experiment by combining the two accent colors t
 
 | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164718.jpg) | | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164721.jpg) |
 |---|---|
-| ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164729.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164741.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164746.jpg)||
+| ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164729.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/CrochetTagProject/20200213_164741.jpg) ||
 
