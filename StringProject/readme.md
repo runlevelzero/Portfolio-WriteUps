@@ -4,6 +4,8 @@ A lot is happening nowadays and it is absolutely necessary to take some time to 
 
 That got a bit intense... But please find something to do indoors. I've been bored during this and it is the worst. Stay active both physically and mentally. And please, take some time away from all of this to relax.
 
+While I am only featuring one piece of String here (My dog enjoyed playing with the others), this particular string is the one I am most proud of, it consists of a blue strand that was wound together, folded and wound again, mixed with thicker strands of white cloths. All of these were from old shirts that I hadn't gotten rid of.
+
 | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/StringProject/1.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/StringProject/2.jpg) |
 |---|---
 | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/StringProject/3.jpg) | ![image169](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/StringProject/4.jpg) |
