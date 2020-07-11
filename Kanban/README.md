@@ -6,9 +6,11 @@ I was also given my first experience with some continuous integration technologi
 
 Below are some screenshots of the website that you can try out [here](https://kanban-web-frontend.netlify.app)
 Here is a screenshot of the home screen
+
 ![](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/Kanban/kanban.png)
 
 and here is a screenshot of a sample board
+
 ![](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/Kanban/kanban-sample-board.PNG)
 
 You can view the repositories from within [this](https://github.com/runlevelzero/Kanban-Web-Frontend) repo for the frontend and [this](https://github.com/runlevelzero/Kanban-Web-Backend) repo for the backend
