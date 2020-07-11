@@ -5,10 +5,13 @@ The first week or so, we focused on learning the various technologies that we we
 I was also given my first experience with some continuous integration technologies with basic CircleCI and we deployed to netlify. After tackling how we deployed our front end, we were able to really get underway. Over the course of the 6 weeks, we were able to implement many of the front end features including multiple boards, completely custom CSS and the ability to swap the CSS to a different theme, customizable swimlanes and drag and drop re-arrangement for the cards and swimlanes. Backend development for this project was developed towards the end of this project and was not able to get integrated with the main frontend, but we worked on getting mongodb connected to express and logging in with passport.
 
 Below are some screenshots of the website that you can try out [here](https://kanban-web-frontend.netlify.app)
-|-|-|
+
 |Here is a screenshot of the home screen|Here is a screenshot of a sample board|
+|-|-|
 |![](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/Kanban/kanban-home-big.png)|![](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/Kanban/kanban-board-big.png)|
+
 |Here is the board selection page| Here is the new board page |
+|-|-|
 |![](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/Kanban/kanban-boards-big.png)|![](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/Kanban/new-board-big.png)|
 
 There are more pages and features that I haven't photographed here, so if you have the time, please check it out.
