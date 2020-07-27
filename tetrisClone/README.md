@@ -22,7 +22,7 @@ Once I got the board drawn, I was able to move onto how to actually draw the pie
 
 I spent a lot of time thinking how I could optimize the drawing method, but by only redrawing the affected blocks, I ended up with some ghosting for some odd reason. so for now, I'll stick to complete redraws. I have an idea for how I can do only sectional redraws, but that will happen later, first let's get a piece drawn, I started simply by creating another javascript object to store the information about the piece like its position. Starting simply with a 1x1 piece, I was able to get it drawn, lookee
 
-|![]()|
+|![](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/tetrisClone/singleMino.png)|
 |-|
 |A single 'mino' as it were|
 
@@ -31,6 +31,9 @@ But a piece isn't any good if you can't move it, so I added a key press listener
 now that that was sorted out, the next biggest thing to do for this game was... wait for it...
 
 ### Gravity!!!
+|![]()|
+|-|
+|The last gif turned out horribly, so here is a still, but trust me, the gravity is working|
 
 One of the biggest ways that Tetris becomes overly addictive is its subtle but sometimes brutal difficulty curve, where you can go from leisurely play to too fast to handle. I spent some time researching how gravity works in Tetris games, and since most are designed to be ran at around 30 to 60 frames per second each, their gravities are always a multiple of 6 or 3. Since I am loading a fram every 10 milliseconds form 100 refreshes a second, the gravity for my game will have to be slightly different. The initial rate for my game will be one block every 100 frames, but could ramp up into multiple blocks in how ever many frames I decide based on two variables, the time it takes for a block to move, and how far the block moves.
 
