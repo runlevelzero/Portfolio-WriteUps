@@ -20,4 +20,21 @@ Once I got the board drawn, I was able to move onto how to actually draw the pie
 |-|
 |my draw function takes too long I think, I'll optimize it soon|
 
-It's coming along nicely, I will work on this and improve this project more soon. You can monitor its progress [here](https://git.rubenruiz.org/runlevelzero/tetris)
+I spent a lot of time thinking how I could optimize the drawing method, but by only redrawing the affected blocks, I ended up with some ghosting for some odd reason. so for now, I'll stick to complete redraws. I have an idea for how I can do only sectional redraws, but that will happen later, first let's get a piece drawn, I started simply by creating another javascript object to store the information about the piece like its position. Starting simply with a 1x1 piece, I was able to get it drawn, lookee
+
+|![]()|
+|-|
+|A single 'mino' as it were|
+
+But a piece isn't any good if you can't move it, so I added a key press listener to the body of the app so that way, any time you push a button while the window is in focus, it will control the piece, this will need to be modified later to allow for menus and typing, and adjustment, but for now you can play this game with the WASD keypads, with a pseudo hard-drop feature when you press the up (W) key
+
+now that that was sorted out, the next biggest thing to do for this game was... wait for it...
+
+### Gravity!!!
+
+One of the biggest ways that Tetris becomes overly addictive is its subtle but sometimes brutal difficulty curve, where you can go from leisurely play to too fast to handle. I spent some time researching how gravity works in Tetris games, and since most are designed to be ran at around 30 to 60 frames per second each, their gravities are always a multiple of 6 or 3. Since I am loading a fram every 10 milliseconds form 100 refreshes a second, the gravity for my game will have to be slightly different. The initial rate for my game will be one block every 100 frames, but could ramp up into multiple blocks in how ever many frames I decide based on two variables, the time it takes for a block to move, and how far the block moves.
+
+Now that gravity exists in some form, I think its time to introduce more blocks into the mix. Looking into how modern Tetris pieces rotate is the next step on this journey
+
+You can monitor its progress [here](https://git.rubenruiz.org/runlevelzero/tetris)
+
