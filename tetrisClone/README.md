@@ -31,7 +31,7 @@ But a piece isn't any good if you can't move it, so I added a key press listener
 now that that was sorted out, the next biggest thing to do for this game was... wait for it...
 
 ### Gravity!!!
-|![]()|
+|![](https://raw.githubusercontent.com/runlevelzero/Portfolio-WriteUps/master/tetrisClone/gravity.png)|
 |-|
 |The last gif turned out horribly, so here is a still, but trust me, the gravity is working|
 
